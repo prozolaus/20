@@ -25,6 +25,7 @@ public:
     class iterator;
 
     mylist() : first{nullptr}, last{first}, sz{0} {}
+    ~mylist();
 
     iterator begin() { return iterator{first}; }
     iterator end() { return nullptr; }
@@ -40,6 +41,21 @@ public:
     Elem &front();
     Elem &back();
 };
+
+//----------------------------------------------------------------------
+
+template <typename Elem>
+mylist<Elem>::~mylist()
+{
+    cout << "Destructor:\n";
+    for (auto i = begin(); i != end();)
+    {
+        Link<Elem> *le = i.get_link();
+        ++i;
+        delete le;
+        cout << "deleted a link\n";
+    }
+}
 
 //----------------------------------------------------------------------
 
@@ -84,6 +100,7 @@ class mylist<Elem>::iterator
 
 public:
     iterator(Link<Elem> *p) : curr{p} {}
+    Link<Elem> *get_link() { return curr; }
     iterator &operator++()
     {
         curr = curr->succ;

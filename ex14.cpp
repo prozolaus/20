@@ -25,6 +25,7 @@ public:
     class iterator;
 
     my_slist() : first{nullptr}, last{first}, sz{0} {}
+    ~my_slist();
 
     iterator begin() { return iterator{first}; }
     iterator end() { return nullptr; }
@@ -40,6 +41,21 @@ public:
 };
 
 //----------------------------------------------------------------------
+//----------------------------------------------------------------------
+
+template <typename Elem>
+my_slist<Elem>::~my_slist()
+{
+    cout << "Destructor:\n";
+    for (auto i = begin(); i != end();)
+    {
+        Link<Elem> *le = i.get_link();
+        ++i;
+        delete le;
+        cout << "deleted a link\n";
+    }
+}
+
 //----------------------------------------------------------------------
 
 template <typename Elem>

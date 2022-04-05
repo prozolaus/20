@@ -23,6 +23,7 @@ public:
     class iterator;
 
     mylist() : first{new Link<Elem>()}, last{first}, sz{0} {}
+    ~mylist();
 
     iterator begin() { return iterator{first}; }
     iterator end() { return iterator{last}; }
@@ -41,6 +42,30 @@ public:
 };
 
 //----------------------------------------------------------------------
+//----------------------------------------------------------------------
+
+template <typename Elem>
+mylist<Elem>::~mylist()
+{
+    cout << "Destructor:\n";
+    for (auto i = begin();;)
+    {
+        Link<Elem> *le = i.get_link();
+        if (i == end())
+        {
+            delete le;
+            cout << "deleted a last element\n";
+            break;
+        }
+        else
+        {
+            ++i;
+            delete le;
+            cout << "deleted a link\n";
+        }
+    }
+}
+
 //----------------------------------------------------------------------
 
 template <typename Elem>
