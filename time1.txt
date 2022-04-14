@@ -1,0 +1,300 @@
+n = 2000
+Vector time, s: 0.022377
+List time, s: 0.031784
+Difference, s: 0.009407
+Difference, %: 42.0387
+
+n = 4000
+Vector time, s: 0.087487
+List time, s: 0.126881
+Difference, s: 0.039394
+Difference, %: 45.0284
+
+n = 6000
+Vector time, s: 0.196837
+List time, s: 0.277688
+Difference, s: 0.080851
+Difference, %: 41.0751
+
+n = 8000
+Vector time, s: 0.354511
+List time, s: 0.491586
+Difference, s: 0.137075
+Difference, %: 38.6659
+
+n = 10000
+Vector time, s: 0.545403
+List time, s: 0.768458
+Difference, s: 0.223055
+Difference, %: 40.8973
+
+n = 12000
+Vector time, s: 0.796772
+List time, s: 1.12327
+Difference, s: 0.326494
+Difference, %: 40.9771
+
+n = 14000
+Vector time, s: 1.07745
+List time, s: 1.50073
+Difference, s: 0.423281
+Difference, %: 39.2856
+
+n = 16000
+Vector time, s: 1.40459
+List time, s: 2.00373
+Difference, s: 0.599141
+Difference, %: 42.6558
+
+n = 18000
+Vector time, s: 1.76553
+List time, s: 2.53182
+Difference, s: 0.766297
+Difference, %: 43.4033
+
+n = 20000
+Vector time, s: 2.20068
+List time, s: 3.13253
+Difference, s: 0.931849
+Difference, %: 42.3437
+
+n = 22000
+Vector time, s: 2.632
+List time, s: 3.78311
+Difference, s: 1.1511
+Difference, %: 43.7349
+
+n = 24000
+Vector time, s: 3.15755
+List time, s: 4.45006
+Difference, s: 1.29252
+Difference, %: 40.9342
+
+n = 26000
+Vector time, s: 3.71322
+List time, s: 5.22389
+Difference, s: 1.51067
+Difference, %: 40.6837
+
+n = 28000
+Vector time, s: 4.28854
+List time, s: 6.05683
+Difference, s: 1.76829
+Difference, %: 41.233
+
+n = 30000
+Vector time, s: 4.91516
+List time, s: 6.94409
+Difference, s: 2.02893
+Difference, %: 41.279
+
+n = 32000
+Vector time, s: 5.5859
+List time, s: 7.95842
+Difference, s: 2.37252
+Difference, %: 42.4733
+
+n = 34000
+Vector time, s: 6.36731
+List time, s: 8.94949
+Difference, s: 2.58217
+Difference, %: 40.5536
+
+n = 36000
+Vector time, s: 7.07653
+List time, s: 10.0048
+Difference, s: 2.92832
+Difference, %: 41.3807
+
+n = 38000
+Vector time, s: 7.89119
+List time, s: 11.2651
+Difference, s: 3.37391
+Difference, %: 42.7555
+
+n = 40000
+Vector time, s: 8.7719
+List time, s: 12.4613
+Difference, s: 3.68945
+Difference, %: 42.0599
+
+n = 42000
+Vector time, s: 9.68252
+List time, s: 13.7398
+Difference, s: 4.05723
+Difference, %: 41.9026
+
+n = 44000
+Vector time, s: 10.5957
+List time, s: 15.1645
+Difference, s: 4.56887
+Difference, %: 43.1201
+
+n = 46000
+Vector time, s: 11.5909
+List time, s: 16.5239
+Difference, s: 4.93297
+Difference, %: 42.559
+
+n = 48000
+Vector time, s: 12.6062
+List time, s: 18.0042
+Difference, s: 5.39801
+Difference, %: 42.8201
+
+n = 50000
+Vector time, s: 13.6607
+List time, s: 19.646
+Difference, s: 5.98533
+Difference, %: 43.8143
+
+n = 52000
+Vector time, s: 14.804
+List time, s: 21.2712
+Difference, s: 6.46719
+Difference, %: 43.6853
+
+n = 54000
+Vector time, s: 16.0275
+List time, s: 23.4584
+Difference, s: 7.43094
+Difference, %: 46.3638
+
+n = 56000
+Vector time, s: 17.1471
+List time, s: 24.8898
+Difference, s: 7.74271
+Difference, %: 45.1547
+
+n = 58000
+Vector time, s: 18.3743
+List time, s: 26.856
+Difference, s: 8.48174
+Difference, %: 46.161
+
+n = 60000
+Vector time, s: 19.7109
+List time, s: 29.0742
+Difference, s: 9.36329
+Difference, %: 47.503
+
+n = 62000
+Vector time, s: 21.0507
+List time, s: 31.3419
+Difference, s: 10.2912
+Difference, %: 48.8874
+
+n = 64000
+Vector time, s: 22.4028
+List time, s: 33.5572
+Difference, s: 11.1544
+Difference, %: 49.7904
+
+n = 66000
+Vector time, s: 23.801
+List time, s: 35.1795
+Difference, s: 11.3785
+Difference, %: 47.8066
+
+n = 68000
+Vector time, s: 25.344
+List time, s: 37.8127
+Difference, s: 12.4687
+Difference, %: 49.1978
+
+n = 70000
+Vector time, s: 26.8871
+List time, s: 41.2841
+Difference, s: 14.397
+Difference, %: 53.5461
+
+n = 72000
+Vector time, s: 28.5747
+List time, s: 43.7278
+Difference, s: 15.1531
+Difference, %: 53.0297
+
+n = 74000
+Vector time, s: 30.0365
+List time, s: 46.511
+Difference, s: 16.4745
+Difference, %: 54.8481
+
+n = 76000
+Vector time, s: 31.6418
+List time, s: 48.2143
+Difference, s: 16.5725
+Difference, %: 52.3752
+
+n = 78000
+Vector time, s: 33.3315
+List time, s: 50.8545
+Difference, s: 17.5231
+Difference, %: 52.5721
+
+n = 80000
+Vector time, s: 35.0527
+List time, s: 56.3891
+Difference, s: 21.3364
+Difference, %: 60.8694
+
+n = 82000
+Vector time, s: 36.9277
+List time, s: 59.9004
+Difference, s: 22.9727
+Difference, %: 62.2101
+
+n = 84000
+Vector time, s: 38.637
+List time, s: 62.9616
+Difference, s: 24.3246
+Difference, %: 62.9567
+
+n = 86000
+Vector time, s: 40.496
+List time, s: 67.8236
+Difference, s: 27.3276
+Difference, %: 67.4821
+
+n = 88000
+Vector time, s: 42.2943
+List time, s: 75.2159
+Difference, s: 32.9216
+Difference, %: 77.8393
+
+n = 90000
+Vector time, s: 44.3324
+List time, s: 77.3444
+Difference, s: 33.0119
+Difference, %: 74.4646
+
+n = 92000
+Vector time, s: 46.3959
+List time, s: 83.5476
+Difference, s: 37.1517
+Difference, %: 80.0754
+
+n = 94000
+Vector time, s: 48.5311
+List time, s: 84.1419
+Difference, s: 35.6108
+Difference, %: 73.3772
+
+n = 96000
+Vector time, s: 50.5332
+List time, s: 102.984
+Difference, s: 52.4506
+Difference, %: 103.794
+
+n = 98000
+Vector time, s: 52.4939
+List time, s: 102.013
+Difference, s: 49.5193
+Difference, %: 94.3334
+
+n = 100000
+Vector time, s: 54.7275
+List time, s: 106.685
+Difference, s: 51.9573
+Difference, %: 94.9382
+

@@ -1,0 +1,234 @@
+n = 5
+Vector time, s: 2.2e-06
+List time, s: 1.45e-06
+Difference, s: -7.5e-07
+Difference, %: -34.0909
+
+n = 10
+Vector time, s: 4.11e-06
+List time, s: 3.2725e-06
+Difference, s: -8.375e-07
+Difference, %: -20.3771
+
+n = 15
+Vector time, s: 5.7555e-06
+List time, s: 4.91362e-06
+Difference, s: -8.41875e-07
+Difference, %: -14.6273
+
+n = 20
+Vector time, s: 7.98778e-06
+List time, s: 7.69568e-06
+Difference, s: -2.92094e-07
+Difference, %: -3.65676
+
+n = 25
+Vector time, s: 8.69939e-06
+List time, s: 7.68478e-06
+Difference, s: -1.0146e-06
+Difference, %: -11.6629
+
+n = 30
+Vector time, s: 1.0435e-05
+List time, s: 1.10842e-05
+Difference, s: 6.4927e-07
+Difference, %: 6.22206
+
+n = 35
+Vector time, s: 1.36217e-05
+List time, s: 1.36042e-05
+Difference, s: -1.75365e-08
+Difference, %: -0.128739
+
+n = 40
+Vector time, s: 1.68811e-05
+List time, s: 1.77302e-05
+Difference, s: 8.49123e-07
+Difference, %: 5.03003
+
+n = 45
+Vector time, s: 1.98441e-05
+List time, s: 2.10865e-05
+Difference, s: 1.24246e-06
+Difference, %: 6.2611
+
+n = 50
+Vector time, s: 2.61422e-05
+List time, s: 2.93043e-05
+Difference, s: 3.16212e-06
+Difference, %: 12.0959
+
+n = 55
+Vector time, s: 4.06071e-05
+List time, s: 4.26152e-05
+Difference, s: 2.00811e-06
+Difference, %: 4.94521
+
+n = 60
+Vector time, s: 4.28304e-05
+List time, s: 4.52308e-05
+Difference, s: 2.40041e-06
+Difference, %: 5.60445
+
+n = 65
+Vector time, s: 4.02915e-05
+List time, s: 4.86115e-05
+Difference, s: 8.32002e-06
+Difference, %: 20.6496
+
+n = 70
+Vector time, s: 4.90646e-05
+List time, s: 5.62306e-05
+Difference, s: 7.166e-06
+Difference, %: 14.6052
+
+n = 75
+Vector time, s: 4.97532e-05
+List time, s: 6.17115e-05
+Difference, s: 1.19583e-05
+Difference, %: 24.0352
+
+n = 80
+Vector time, s: 4.99377e-05
+List time, s: 6.09856e-05
+Difference, s: 1.10479e-05
+Difference, %: 22.1234
+
+n = 85
+Vector time, s: 5.53469e-05
+List time, s: 6.92993e-05
+Difference, s: 1.39524e-05
+Difference, %: 25.209
+
+n = 90
+Vector time, s: 8.11673e-05
+List time, s: 9.1065e-05
+Difference, s: 9.89762e-06
+Difference, %: 12.1941
+
+n = 95
+Vector time, s: 9.38584e-05
+List time, s: 0.000104653
+Difference, s: 1.07949e-05
+Difference, %: 11.5012
+
+n = 100
+Vector time, s: 9.39429e-05
+List time, s: 0.000115383
+Difference, s: 2.14397e-05
+Difference, %: 22.8221
+
+n = 105
+Vector time, s: 8.63471e-05
+List time, s: 0.000107969
+Difference, s: 2.1622e-05
+Difference, %: 25.0408
+
+n = 110
+Vector time, s: 0.000109817
+List time, s: 0.000137448
+Difference, s: 2.76311e-05
+Difference, %: 25.161
+
+n = 115
+Vector time, s: 0.000121041
+List time, s: 0.000137572
+Difference, s: 1.65316e-05
+Difference, %: 13.6578
+
+n = 120
+Vector time, s: 0.000108552
+List time, s: 0.000132129
+Difference, s: 2.35766e-05
+Difference, %: 21.7191
+
+n = 125
+Vector time, s: 0.000130828
+List time, s: 0.000153706
+Difference, s: 2.28788e-05
+Difference, %: 17.4878
+
+n = 130
+Vector time, s: 0.000147591
+List time, s: 0.000172835
+Difference, s: 2.52439e-05
+Difference, %: 17.1039
+
+n = 135
+Vector time, s: 0.00013213
+List time, s: 0.000165042
+Difference, s: 3.29122e-05
+Difference, %: 24.909
+
+n = 140
+Vector time, s: 0.000166156
+List time, s: 0.000201102
+Difference, s: 3.49456e-05
+Difference, %: 21.0317
+
+n = 145
+Vector time, s: 0.000155608
+List time, s: 0.000202005
+Difference, s: 4.63973e-05
+Difference, %: 29.8168
+
+n = 150
+Vector time, s: 0.00017688
+List time, s: 0.00022645
+Difference, s: 4.95699e-05
+Difference, %: 28.0245
+
+n = 155
+Vector time, s: 0.000191594
+List time, s: 0.000234373
+Difference, s: 4.27785e-05
+Difference, %: 22.3277
+
+n = 160
+Vector time, s: 0.00020568
+List time, s: 0.000258569
+Difference, s: 5.28889e-05
+Difference, %: 25.7142
+
+n = 165
+Vector time, s: 0.000205484
+List time, s: 0.000267578
+Difference, s: 6.20944e-05
+Difference, %: 30.2186
+
+n = 170
+Vector time, s: 0.000231324
+List time, s: 0.000291029
+Difference, s: 5.97047e-05
+Difference, %: 25.81
+
+n = 175
+Vector time, s: 0.000233916
+List time, s: 0.000298051
+Difference, s: 6.41352e-05
+Difference, %: 27.418
+
+n = 180
+Vector time, s: 0.000249146
+List time, s: 0.000318853
+Difference, s: 6.97068e-05
+Difference, %: 27.9783
+
+n = 185
+Vector time, s: 0.000257457
+List time, s: 0.000332693
+Difference, s: 7.52353e-05
+Difference, %: 29.2225
+
+n = 190
+Vector time, s: 0.000240623
+List time, s: 0.000316985
+Difference, s: 7.63618e-05
+Difference, %: 31.735
+
+n = 195
+Vector time, s: 0.000244431
+List time, s: 0.000326749
+Difference, s: 8.23181e-05
+Difference, %: 33.6774
+
